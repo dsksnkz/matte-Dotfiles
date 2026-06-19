@@ -8,7 +8,7 @@
 
 ```
 git clone https://github.com/dsksnkz/matte-Dotfiles.git
-cd ~/matte-dotfiles
+cd ~/matte-dotfiles/dotfiles
 ./install.sh
 ```
 # Demos
