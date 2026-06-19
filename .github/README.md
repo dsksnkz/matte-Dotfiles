@@ -7,7 +7,7 @@
 # Installation ![Static Badge](https://img.shields.io/badge/Hyprland-blue?style=for-the-badge&logo=hyprland&logoColor=black&labelColor=%23deebff&color=%235294ff)
 
 ```
-git clone https://github.com/dsksnkz/matte-Dotfiles.git ~/matte-dotfiles
+git clone https://github.com/dsksnkz/matte-Dotfiles.git
 cd ~/matte-dotfiles
 ./install.sh
 ```
