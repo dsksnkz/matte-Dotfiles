@@ -20,7 +20,7 @@ fi
 
 echo "3. Install common AUR packages used in Hyprland rices"
 echo "📦 Installing AUR packages..."
-yay -S --noconfirm hyprshot yazi hyprlock hyprpicker awww pywal-16-colors nwg-displays 
+yay -S --noconfirm hyprshot yazi hyprlock hyprpicker awww pywal-16-colors nwg-displays mortrix-bin
 yay -S --noconfirm nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings
 
 
