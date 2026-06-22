@@ -7,7 +7,7 @@ echo "🚀 Starting Hyprland Rice Installation..."
 echo "1. Update system and install core official packages"
 echo "📦 Installing core packages from official repositories..."
 sudo pacman -Syu --noconfirm
-sudo pacman -S --noconfirm btop cava clipse fastfetch helix nwg-displays hyprland blender firefox waybar rofi zed steam helium-browser-bin kitty git xdg-desktop-portal-hyprland nautilus ttf-font-awesome
+sudo pacman -S --noconfirm btop cava clipse fastfetch helix nwg-displays hyprland blender firefox waybar rofi zed steam helium-browser-bin kitty git xdg-desktop-portal-hyprland nautilus ttf-font-awesome mission-center ttf-cascadia-code-nerd
 
 echo "2. Check for an AUR helper (Yay), and install it if it's missing"
 if ! command -v yay &> /dev/null; then
