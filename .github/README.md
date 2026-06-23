@@ -9,7 +9,7 @@
 ```
 git clone https://github.com/dsksnkz/matte-Dotfiles.git
 cd ~/matte-dotfiles/dotfiles
-./install.sh
+chmod +x install.sh && ./install.sh
 ```
 # Demos
 
